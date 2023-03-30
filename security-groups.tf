@@ -7,7 +7,7 @@ resource "aws_security_group" "my-application-security-group" {
     protocol    = "tcp"
     cidr_blocks = ["${chomp(data.http.myip.response_body)}/32"]
   }
-  
+
   ingress {
     from_port   = 80
     to_port     = 80
