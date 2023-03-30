@@ -12,4 +12,6 @@ resource "aws_instance" "my-application_ec2" {
   vpc_security_group_ids = [
     aws_security_group.my-application-security-group.id,
   ]
+
+  user_data = file("install.sh")
 }
