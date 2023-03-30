@@ -1,1 +1,8 @@
 .bashrc
+.terraform.lock.hcl
+.terraform.tfstate.lock.info
+.terraform/providers/registry.terraform.io/hashicorp/http/3.2.1/linux_amd64/terraform-provider-http_v3.2.1_x5
+.terraform/providers/registry.terraform.io/hashicorp/aws/4.60.0/linux_amd64/terraform-provider-aws_v4.60.0_x5
+terraform.tfstate
+makefile
+terraform.tfstate.backup
