@@ -34,19 +34,19 @@ Before you can execute this Terraform project, you need to have the following:
    ```bash
    git clone https://github.com/jhonatan98rios/terraform-ec2-for-api.git
    cd terraform-ec2-for-api
-  ```
+    ```
 
 2. **Initialize Terraform:**
    ```bash
    terraform init
-  ```
+    ```
 
 3. **Plan the deployment:**
    ```bash
    terraform plan
-  ```
+    ```
 
 4. **Apply the deployment:**
    ```bash
    terraform apply
-  ```
+    ```
