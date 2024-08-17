@@ -30,13 +30,15 @@ Before you can execute this Terraform project, you need to have the following:
 
 ## How to Execute
 
-1. **Edit the file ```variables.tf```**
 
-2. **Clone the repository:**
+
+1. **Clone the repository:**
    ```bash
    git clone https://github.com/jhonatan98rios/terraform-ec2-for-api.git
    cd terraform-ec2-for-api
     ```
+   
+2. **Edit the file ```variables.tf```**
 
 3. **Initialize Terraform:**
    ```bash
