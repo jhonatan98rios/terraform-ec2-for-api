@@ -30,7 +30,7 @@ Before you can execute this Terraform project, you need to have the following:
 
 ## How to Execute
 
-1. Edit the file ```variables.tf```
+1. **Edit the file ```variables.tf```**
 
 2. **Clone the repository:**
    ```bash
